@@ -1,0 +1,11 @@
+.background    { background: deepskyblue; }
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: maroon; }
+.wall          { background: black;   }
+.floater       { background: darkgreen; }
+
+.game {
+  position: relative;
+}
